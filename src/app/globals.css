@@ -1,0 +1,6 @@
+/* fix preflight button style */
+@import '../styles/preflight.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
